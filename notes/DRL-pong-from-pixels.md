@@ -10,10 +10,10 @@ TLDR; Applying Policy Gradients to the game of Pong, to learn ways of modeling o
 -  So if we fill in -1 for log probability of DOWN and do backprop we will find a gradient that discourages the network to take the DOWN action for that input in the future.
 - Training settings 100 games of pong with 200 frames. The network is only updated for the games of pong where it won. 
 - Important to pick a good discount value for the eventual reward.
-- For more indepth analysis on the Policy gradient, visit John Schulman's second lecture.
+- For more in depth analysis on the Policy gradient, visit John Schulman's second lecture.
 - Policy Gradients are a brute force solution, where the correct actions are eventually discovered and internalized into a policy.
 - there are many games where Policy Gradients would quite easily defeat a human. In particular, anything with frequent reward signals that requires precise play, fast reflexes, and not too much long-term planning would be ideal
 
 
 ### Notes
-- Four seperate factor that limit progress in AI; Compute (Moore's Law, GPUs), Data (In nice form), Algorithms (research and ideas, like backprop, CNN) and Infrastructure (software under you - Linux, AWS, tensorflow)
+- Four separate factor that limit progress in AI; Compute (Moore's Law, GPUs), Data (In nice form), Algorithms (research and ideas, like backprop, CNN) and Infrastructure (software under you - Linux, AWS, tensorflow)
