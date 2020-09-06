@@ -7,5 +7,6 @@
 
 #### 2020-09
 - [Practical Block-wise Neural Network Architecture Generation](notes/Block-NAS-generation.md) [[arXiv](https://arxiv.org/abs/1708.05552)]
-- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](notes/RL2-fast-rl-via-slow-rl.md) [[openReview](https://openreview.net/pdf?id=HkLXCE9lx)]
+- TODO: [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](notes/RL2-fast-rl-via-slow-rl.md) [[openReview](https://openreview.net/pdf?id=HkLXCE9lx)]
+- TODO: [Learning to Reinforcement learn](notes/Learning-to-Reinforcement-learn.md)[[arXiv](https://arxiv.org/pdf/1611.05763.pdf)]
 - TODO: [Agent57: Outperforming the Atari Human Benchmark](notes/agent57.md) [[arXiv](https://arxiv.org/abs/2003.13350)][[article](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark)]

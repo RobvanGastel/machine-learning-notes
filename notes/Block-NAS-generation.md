@@ -1,4 +1,4 @@
-## [title](https://arxiv.org/abs/12345689)
+## [Practical Block-wise Neural Network Architecture Generation](https://arxiv.org/abs/1708.05552)
 
 TLDR; CNN have had a large impact on the field of computer vision with complex hand-crafted models. this paper purposes BlockQNN, a way to automate the creation of high performance networks using Q-Learning with epsilon-greedy exploration. Using block-wise generation of the models has some unique advantages, like reducing the search space immensely. The experiments where executed in a distributed asynchronous fashion. 
 
