@@ -9,3 +9,4 @@
 - [Practical Block-wise Neural Network Architecture Generation](notes/Block-NAS-generation.md) [[arXiv](https://arxiv.org/abs/1708.05552)]
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](notes/RL2-fast-rl-via-slow-rl.md) [[openReview](https://openreview.net/pdf?id=HkLXCE9lx)]
 - [Learning to Reinforcement learn](notes/Learning-to-Reinforcement-learn.md) [[arXiv](https://arxiv.org/pdf/1611.05763.pdf)]
+- [The Sorcerer’s Apprentice Guide to Training LSTMs](notes/Guide-to-training-LSTMs.md) [[blog](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)]
