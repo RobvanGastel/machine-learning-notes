@@ -9,7 +9,6 @@ be explained as Bayesian inference, and that the key to developing algorithms wi
 - In this work meta-learning algorithms based on the first order gradient information is explored. Introduced is the algorithm MAML (Model-Agnostic Meta-Learning), where later first-order MAML, FOMAML, was introduced obtained nearly as well performance as MAML on ImageNet while ignoring the second-order gradient information. This has been seen in other meta-learning approaches as well.
 - The same optimization problem is considered as in MAML. Like MAML, Reptile learns an initialization for the parameters of the neural network. This is described in more detail in the paper.
 
-
 ### Notes
 Follow up reading the original MAML paper for more insight, Chelsea Finn, Pieter Abbeel, and Sergey Levine. Model-agnostic meta-learning for fast adaptation of
 deep networks.
