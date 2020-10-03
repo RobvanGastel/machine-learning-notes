@@ -1,5 +1,6 @@
 #### 2020-10
 - Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)] [[blog](https://gomerudo.github.io/ml-summaries/2020/03/09/wanns/)]
+- Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples [[arXiv](https://arxiv.org/abs/1903.03096)]
 
 #### 2020-09
 - [On First-Order Meta-Learning Algorithms](notes/First-order-meta-learning.md) [[arXiv](https://arxiv.org/abs/1801.02999)]

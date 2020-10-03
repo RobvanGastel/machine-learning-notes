@@ -16,11 +16,5 @@ learn and RL^2.
 - A policy learned by deep-meta-RL can be transferred to other environments quickly.
 - Hard to evaluate multi-branch settings with limitations to computing power. Thus choice of branch setting.
 
-
-- constrain the search strategy to a deep meta-reinforcement learning algorithm
-
 ### Notes
-Can more computational methods be applied to reproduce this result, e.g. proxy task performance, parameter sharing?
-Having custom blocks constraints for NAS have also performed well.
 Study other RL algorithms for NAS is suggested in the paper.
-How can a meta-controller be used to improve NAS, instead of applying RNN explicitly?
