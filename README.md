@@ -1,4 +1,5 @@
 #### 2020-10
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[arXiv](https://arxiv.org/abs/1703.03400)]
 - The Bitter Lesson [[article](http://incompleteideas.net/IncIdeas/BitterLesson.html)]
 - [Reinforcement Learning, Fast and Slow](notes/RL-fast-and-slow.md) [[cell](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
 - Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)] [[blog](https://gomerudo.github.io/ml-summaries/2020/03/09/wanns/)]
