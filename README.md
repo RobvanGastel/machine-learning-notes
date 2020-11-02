@@ -1,3 +1,6 @@
+#### 2020-11
+- Statistical Modeling: The Two Cultures [[paper](http://www2.math.uu.se/~thulin/mm/breiman.pdf)]
+
 #### 2020-10
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[arXiv](https://arxiv.org/abs/1703.03400)]
 - The Bitter Lesson [[article](http://incompleteideas.net/IncIdeas/BitterLesson.html)]
