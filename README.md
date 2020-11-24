@@ -1,4 +1,7 @@
 #### 2020-11
+- Human-level control through deep reinforcement learning [[paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)]
+- Deep Reinforcement Learning with Double Q-learning [[arXiv](https://arxiv.org/abs/1509.06461)]
+- Playing Atari with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1312.5602)]
 - Behavior Suite for Reinforcement Learning [[paper](https://arxiv.org/1908.03568)] 
 - Statistical Modeling: The Two Cultures [[paper](http://www2.math.uu.se/~thulin/mm/breiman.pdf)]
 
