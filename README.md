@@ -1,3 +1,7 @@
+#### 2020-12
+- Effective Policy Gradient Search for Reinforcement Learning Through NEAT Based Feature Extraction [[paper](https://link.springer.com/chapter/10.1007/978-3-319-68759-9_39)]
+- Random Error Sampling-based Recurrent Neural Network Architecture Optimization [[arXiv](https://arxiv.org/abs/1909.02425)]
+
 #### 2020-11
 - Human-level control through deep reinforcement learning [[paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)]
 - Deep Reinforcement Learning with Double Q-learning [[arXiv](https://arxiv.org/abs/1509.06461)]
