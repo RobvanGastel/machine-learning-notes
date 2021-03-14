@@ -1,3 +1,9 @@
+#### 2021-03
+- Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning [[arXiv](https://arxiv.org/abs/1910.10897)]
+- Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)]
+- Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
+- Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions [[arXiv](https://arxiv.org/abs/1901.01753)]
+
 #### 2021-02
 - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[arXiv](https://arxiv.org/abs/1903.08254)]
 
