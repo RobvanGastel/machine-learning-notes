@@ -1,3 +1,6 @@
+#### 2021-04
+- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)]
+
 #### 2021-03
 - Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning [[arXiv](https://arxiv.org/abs/1910.10897)]
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)]
