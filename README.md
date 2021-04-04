@@ -1,4 +1,6 @@
 #### 2021-04
+- Memory-based control with recurrent neural networks [[arXiv](https://arxiv.org/abs/1512.04455)]
+- Soft Actor-Critic Algorithms and Applications [[arXiv](https://arxiv.org/abs/1812.05905)]
 - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)]
 
 #### 2021-03
