@@ -1,4 +1,5 @@
 #### 2021-04
+- Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
 - Memory-based control with recurrent neural networks [[arXiv](https://arxiv.org/abs/1512.04455)]
 - Soft Actor-Critic Algorithms and Applications [[arXiv](https://arxiv.org/abs/1812.05905)]
 - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)]
