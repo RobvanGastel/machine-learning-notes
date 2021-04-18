@@ -1,4 +1,6 @@
 #### 2021-04
+- Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
+- Can recurrent neural networks warp time? [[arXiv](https://arxiv.org/pdf/1804.11188.pdf)]
 - Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
 - Memory-based control with recurrent neural networks [[arXiv](https://arxiv.org/abs/1512.04455)]
 - Soft Actor-Critic Algorithms and Applications [[arXiv](https://arxiv.org/abs/1812.05905)]
