@@ -1,4 +1,7 @@
 #### 2021-04
+- ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware [[arXiv](https://arxiv.org/abs/1812.00332)]
+- Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
+- Meta-Learning of Neural Architectures for Few-Shot Learning [[arXiv](https://arxiv.org/abs/1911.11090)]
 - Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
 - Can recurrent neural networks warp time? [[arXiv](https://arxiv.org/pdf/1804.11188.pdf)]
 - Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
