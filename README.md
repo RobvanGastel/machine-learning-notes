@@ -1,5 +1,6 @@
 #### 2021-04
-- ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware [[arXiv](https://arxiv.org/abs/1812.00332)]
+- Auto-Meta: Automated Gradient Based Meta Learner Search [[arXiv](https://arxiv.org/abs/1806.06927)]
+- ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[arXiv](https://arxiv.org/abs/1811.12231)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 - Meta-Learning of Neural Architectures for Few-Shot Learning [[arXiv](https://arxiv.org/abs/1911.11090)]
 - Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
