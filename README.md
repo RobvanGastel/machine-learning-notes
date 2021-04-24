@@ -1,23 +1,32 @@
 #### 2021-04
-- Auto-Meta: Automated Gradient Based Meta Learner Search [[arXiv](https://arxiv.org/abs/1806.06927)]
-- ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[arXiv](https://arxiv.org/abs/1811.12231)]
-- Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
-- Meta-Learning of Neural Architectures for Few-Shot Learning [[arXiv](https://arxiv.org/abs/1911.11090)]
-- Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
+- Neural Architecture Search
+    - NAS evaluation is frustratingly hard [[arXiv](https://arxiv.org/abs/1912.12522)]
+    - Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap [[arXiv](https://arxiv.org/abs/2008.01475)]
+    - DARTS: Differentiable Architecture Search [[arxiv](https://arxiv.org/abs/1806.09055)]
+    - UNAS: Differentiable Architecture Search Meets Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.07651)]
+    - Auto-Meta: Automated Gradient Based Meta Learner Search [[arXiv](https://arxiv.org/abs/1806.06927)]
+    - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
+    - Meta-Learning of Neural Architectures for Few-Shot Learning [[arXiv](https://arxiv.org/abs/1911.11090)]
+- Computer Vision
+    - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[arXiv](https://arxiv.org/abs/1811.12231)]
+- Reinforcement Learning
+    - Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
+    - Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
+    - Memory-based control with recurrent neural networks [[arXiv](https://arxiv.org/abs/1512.04455)]
+    - Soft Actor-Critic Algorithms and Applications [[arXiv](https://arxiv.org/abs/1812.05905)]
+    - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)]
 - Can recurrent neural networks warp time? [[arXiv](https://arxiv.org/pdf/1804.11188.pdf)]
-- Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
-- Memory-based control with recurrent neural networks [[arXiv](https://arxiv.org/abs/1512.04455)]
-- Soft Actor-Critic Algorithms and Applications [[arXiv](https://arxiv.org/abs/1812.05905)]
-- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)]
 
 #### 2021-03
-- Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning [[arXiv](https://arxiv.org/abs/1910.10897)]
-- Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)]
-- Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
-- Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions [[arXiv](https://arxiv.org/abs/1901.01753)]
+- Reinforcement Learning
+    - Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning [[arXiv](https://arxiv.org/abs/1910.10897)]
+    - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)]
+    - Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
+    - Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions [[arXiv](https://arxiv.org/abs/1901.01753)]
 
 #### 2021-02
-- Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[arXiv](https://arxiv.org/abs/1903.08254)]
+- Meta-Learning
+    - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[arXiv](https://arxiv.org/abs/1903.08254)]
 
 #### 2021-01
 - A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions [[arXiv](https://arxiv.org/abs/2006.02903)]
