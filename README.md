@@ -1,14 +1,17 @@
 #### 2021-04
 - Neural Architecture Search
+    - EfficientPose: Efficient Human Pose Estimation with Neural Architecture Search [[arXiv](https://arxiv.org/abs/2012.07086)]
+    - M-NAS: Meta Neural Architecture Search [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6084)]
     - NAS evaluation is frustratingly hard [[arXiv](https://arxiv.org/abs/1912.12522)]
     - Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap [[arXiv](https://arxiv.org/abs/2008.01475)]
-    - DARTS: Differentiable Architecture Search [[arxiv](https://arxiv.org/abs/1806.09055)]
+    - DARTS: Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1806.09055)]
     - UNAS: Differentiable Architecture Search Meets Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.07651)]
     - Auto-Meta: Automated Gradient Based Meta Learner Search [[arXiv](https://arxiv.org/abs/1806.06927)]
     - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
     - Meta-Learning of Neural Architectures for Few-Shot Learning [[arXiv](https://arxiv.org/abs/1911.11090)]
 - Computer Vision
     - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[arXiv](https://arxiv.org/abs/1811.12231)]
+    - On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location [[arXiv](https://arxiv.org/abs/2003.07064)]
 - Reinforcement Learning
     - Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
     - Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
@@ -29,27 +32,32 @@
     - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[arXiv](https://arxiv.org/abs/1903.08254)]
 
 #### 2021-01
-- A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions [[arXiv](https://arxiv.org/abs/2006.02903)]
+- Neural Architecture Search
+    - A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions [[arXiv](https://arxiv.org/abs/2006.02903)]
 
 #### 2020-12
-- Meta-Learning in Neural Networks: A Survey [[arXiv](https://arxiv.org/abs/2004.05439)]
-- Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
-- Effective Policy Gradient Search for Reinforcement Learning Through NEAT Based Feature Extraction [[paper](https://link.springer.com/chapter/10.1007/978-3-319-68759-9_39)]
-- Random Error Sampling-based Recurrent Neural Network Architecture Optimization [[arXiv](https://arxiv.org/abs/1909.02425)]
+- Meta-Learning
+    - Meta-Learning in Neural Networks: A Survey [[arXiv](https://arxiv.org/abs/2004.05439)]
+- Reinforcement Learning
+    - Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
+    - Effective Policy Gradient Search for Reinforcement Learning Through NEAT Based Feature Extraction [[paper](https://link.springer.com/chapter/10.1007/978-3-319-68759-9_39)]
+    - Random Error Sampling-based Recurrent Neural Network Architecture Optimization [[arXiv](https://arxiv.org/abs/1909.02425)]
 
 #### 2020-11
-- Human-level control through deep reinforcement learning [[paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)]
-- Deep Reinforcement Learning with Double Q-learning [[arXiv](https://arxiv.org/abs/1509.06461)]
-- Playing Atari with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1312.5602)]
-- Behavior Suite for Reinforcement Learning [[paper](https://arxiv.org/1908.03568)] 
+- Reinforcement Learning
+    - Human-level control through deep reinforcement learning [[paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)]
+    - Deep Reinforcement Learning with Double Q-learning [[arXiv](https://arxiv.org/abs/1509.06461)]
+    - Playing Atari with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1312.5602)]
+    - Behavior Suite for Reinforcement Learning [[paper](https://arxiv.org/1908.03568)] 
 - Statistical Modeling: The Two Cultures [[paper](http://www2.math.uu.se/~thulin/mm/breiman.pdf)]
 
 #### 2020-10
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[arXiv](https://arxiv.org/abs/1703.03400)]
+- Meta-Learning
+    - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[arXiv](https://arxiv.org/abs/1703.03400)]
+    - Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples [[arXiv](https://arxiv.org/abs/1903.03096)]
+    - [Reinforcement Learning, Fast and Slow](notes/RL-fast-and-slow.md) [[cell](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
 - The Bitter Lesson [[article](http://incompleteideas.net/IncIdeas/BitterLesson.html)]
-- [Reinforcement Learning, Fast and Slow](notes/RL-fast-and-slow.md) [[cell](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
 - Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)] [[blog](https://gomerudo.github.io/ml-summaries/2020/03/09/wanns/)]
-- Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples [[arXiv](https://arxiv.org/abs/1903.03096)]
 
 #### 2020-09
 - [On First-Order Meta-Learning Algorithms](notes/First-order-meta-learning.md) [[arXiv](https://arxiv.org/abs/1801.02999)]
