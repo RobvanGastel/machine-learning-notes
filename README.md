@@ -1,15 +1,20 @@
 #### 2021-04
 - Neural Architecture Search
+    - Progressive DARTS: Bridging the Optimization Gap for NAS in the Wild [[arXiv](https://arxiv.org/abs/1912.10952)]
+    - GOLD-NAS: Gradual, One-Level, Differentiable [[arXiv](https://arxiv.org/abs/2007.03331)]
+    - Population Based Training of Neural Networks [[arXiv](https://arxiv.org/abs/1711.09846)]
     - EfficientPose: Efficient Human Pose Estimation with Neural Architecture Search [[arXiv](https://arxiv.org/abs/2012.07086)]
-    - M-NAS: Meta Neural Architecture Search [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6084)]
     - NAS evaluation is frustratingly hard [[arXiv](https://arxiv.org/abs/1912.12522)]
     - Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap [[arXiv](https://arxiv.org/abs/2008.01475)]
     - DARTS: Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1806.09055)]
     - UNAS: Differentiable Architecture Search Meets Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.07651)]
-    - Auto-Meta: Automated Gradient Based Meta Learner Search [[arXiv](https://arxiv.org/abs/1806.06927)]
     - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
+- Meta-Learning
+    - M-NAS: Meta Neural Architecture Search [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6084)]
     - Meta-Learning of Neural Architectures for Few-Shot Learning [[arXiv](https://arxiv.org/abs/1911.11090)]
+    - Auto-Meta: Automated Gradient Based Meta Learner Search [[arXiv](https://arxiv.org/abs/1806.06927)]
 - Computer Vision
+    - U-Net: Convolutional Networks for Biomedical Image Segmentation [[arXiv](https://arxiv.org/abs/1505.04597)]
     - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[arXiv](https://arxiv.org/abs/1811.12231)]
     - On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location [[arXiv](https://arxiv.org/abs/2003.07064)]
 - Reinforcement Learning
