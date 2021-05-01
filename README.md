@@ -1,3 +1,8 @@
+#### 2021-05
+- Generative Models
+    - Information Theory for Intelligent People [[paper](http://tuvalu.santafe.edu/~simon/it.pdf)]
+    - Approximating discrete probability distributions with dependence trees [[IEEE](https://ieeexplore.ieee.org/document/1054142)]
+
 #### 2021-04
 - Neural Architecture Search
     - Progressive DARTS: Bridging the Optimization Gap for NAS in the Wild [[arXiv](https://arxiv.org/abs/1912.10952)]
