@@ -2,6 +2,8 @@
 - Generative Models
     - Information Theory for Intelligent People [[paper](http://tuvalu.santafe.edu/~simon/it.pdf)]
     - Approximating discrete probability distributions with dependence trees [[IEEE](https://ieeexplore.ieee.org/document/1054142)]
+- Reinforcement Learning
+    - High-Dimensional Continuous Control Using Generalized Advantage Estimation [[arXiv](https://arxiv.org/abs/1506.02438)]
 
 #### 2021-04
 - Neural Architecture Search
