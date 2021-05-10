@@ -1,4 +1,6 @@
 #### 2021-05
+- Neural Architecture Search
+    - Drawing early-bird tickets: Towards more efficient training of deep networks [[arXiv](https://arxiv.org/abs/1909.11957)]
 - Meta-Learning
     - Meta-Gradient Reinforcement Learning [[arXiv](https://arxiv.org/abs/1805.09801)]
     - Torchmeta: A Meta-Learning library for PyTorch [[arXiv](https://arxiv.org/abs/1909.06576)]
@@ -7,8 +9,6 @@
     - Approximating discrete probability distributions with dependence trees [[IEEE](https://ieeexplore.ieee.org/document/1054142)]
 - Reinforcement Learning
     - High-Dimensional Continuous Control Using Generalized Advantage Estimation [[arXiv](https://arxiv.org/abs/1506.02438)]
-    - 
-
 
 #### 2021-04
 - Neural Architecture Search
