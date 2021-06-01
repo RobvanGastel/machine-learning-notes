@@ -1,3 +1,7 @@
+#### 2021-06
+- Computer Vision
+    - Improved Regularization of Convolutional Neural Networks with Cutout [[arXiv](https://arxiv.org/abs/1708.04552)]
+
 #### 2021-05
 - Neural Architecture Search
     - Drawing early-bird tickets: Towards more efficient training of deep networks [[arXiv](https://arxiv.org/abs/1909.11957)]
@@ -9,6 +13,7 @@
     - Information Theory for Intelligent People [[paper](http://tuvalu.santafe.edu/~simon/it.pdf)]
     - Approximating discrete probability distributions with dependence trees [[IEEE](https://ieeexplore.ieee.org/document/1054142)]
 - Reinforcement Learning
+    - Hindsight Experience Replay [[arXiv](https://arxiv.org/abs/1707.01495)]
     - High-Dimensional Continuous Control Using Generalized Advantage Estimation [[arXiv](https://arxiv.org/abs/1506.02438)]
 
 #### 2021-04
