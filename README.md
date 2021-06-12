@@ -6,6 +6,7 @@
     - Performance-Weighed Policy Sampling for Meta-Reinforcement Learning [[arXiv](https://arxiv.org/abs/2012.06016)]
     - Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need? [[arXiv](https://arxiv.org/abs/2003.11539)]
 - Computer Vision
+    - How Useful is Self-Supervised Pretraining for Visual Tasks? [[arXiv](https://arxiv.org/abs/2003.14323)]
     - Improved Regularization of Convolutional Neural Networks with Cutout [[arXiv](https://arxiv.org/abs/1708.04552)]
     - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
 - Reinforcement Learning
