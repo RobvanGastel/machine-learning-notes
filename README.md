@@ -2,6 +2,8 @@
 - Neural Architecture Search
     - SNAS: Stochastic Neural Architecture Search [[arXiv](https://arxiv.org/abs/1812.09926)]
 - Meta-Learning
+    - Matching Networks for One Shot Learning [[arXiv](https://arxiv.org/abs/1606.04080)]
+    - Meta-learning with negative learning rates [[arXiv](https://arxiv.org/abs/2102.00940)]
     - Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML [[arXiv](https://arxiv.org/abs/1909.09157)]
     - Performance-Weighed Policy Sampling for Meta-Reinforcement Learning [[arXiv](https://arxiv.org/abs/2012.06016)]
     - Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need? [[arXiv](https://arxiv.org/abs/2003.11539)]
