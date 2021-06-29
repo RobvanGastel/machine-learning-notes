@@ -1,5 +1,6 @@
 #### 2021-06
 - Neural Architecture Search
+    - Do ImageNet Classifiers Generalize to ImageNet? [[paper](http://proceedings.mlr.press/v97/recht19a/recht19a.pdf)]
     - SNAS: Stochastic Neural Architecture Search [[arXiv](https://arxiv.org/abs/1812.09926)]
 - Meta-Learning
     - Matching Networks for One Shot Learning [[arXiv](https://arxiv.org/abs/1606.04080)]
@@ -14,7 +15,8 @@
 - Reinforcement Learning
     - Towards Sample Efficient Reinforcement Learning [[IJCAI](https://www.ijcai.org/proceedings/2018/820)]
     - Measuring Progress in Deep Reinforcement Learning Sample Efficiency [[arXiv](https://arxiv.org/abs/2102.04881)]
-
+- Gradient Estimation Using Stochastic Computation Graphs [[arXiv](https://arxiv.org/abs/1506.05254)]
+- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
 
 #### 2021-05
 - Neural Architecture Search
