@@ -1,5 +1,7 @@
 #### 2021-06
 - Neural Architecture Search
+    - Measuring Robustness to Natural Distribution Shifts in Image Classification [[arXiv](https://arxiv.org/abs/2007.00644)]
+    - Is it Enough to Optimize CNN Architectures on ImageNet? [[arXiv](https://arxiv.org/abs/2103.09108)]
     - Do ImageNet Classifiers Generalize to ImageNet? [[paper](http://proceedings.mlr.press/v97/recht19a/recht19a.pdf)]
     - SNAS: Stochastic Neural Architecture Search [[arXiv](https://arxiv.org/abs/1812.09926)]
 - Meta-Learning
@@ -15,8 +17,10 @@
 - Reinforcement Learning
     - Towards Sample Efficient Reinforcement Learning [[IJCAI](https://www.ijcai.org/proceedings/2018/820)]
     - Measuring Progress in Deep Reinforcement Learning Sample Efficiency [[arXiv](https://arxiv.org/abs/2102.04881)]
+- A Baseline for Few-Shot Image Classification [[arXiv](https://arxiv.org/abs/1909.02729)]
 - Gradient Estimation Using Stochastic Computation Graphs [[arXiv](https://arxiv.org/abs/1506.05254)]
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
+- A Metric Learning Reality Check [[arXiv](https://arxiv.org/abs/2003.08505)]
 
 #### 2021-05
 - Neural Architecture Search
