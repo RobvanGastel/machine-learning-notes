@@ -1,3 +1,11 @@
+#### 2021-07
+- Neural Architecture Search
+    - sharpDARTS: Faster and More Accurate Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1903.09900)]
+    - Xception: Deep Learning with Depthwise Separable Convolutions [[arXiv](https://arxiv.org/abs/1610.02357)]
+- Few-Shot Learning
+    - Optimization as a Model for Few-Shot Learning [[OpenReview](https://openreview.net/forum?id=rJY0-Kcll)]
+    - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
+
 #### 2021-06
 - Neural Architecture Search
     - Measuring Robustness to Natural Distribution Shifts in Image Classification [[arXiv](https://arxiv.org/abs/2007.00644)]
