@@ -1,10 +1,17 @@
 #### 2021-07
 - Neural Architecture Search
     - sharpDARTS: Faster and More Accurate Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1903.09900)]
+    - Progressive Neural Architecture Search [[arXiv](https://arxiv.org/abs/1712.00559)]
+    - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[arXiv](https://arxiv.org/abs/1811.06965)]
     - Xception: Deep Learning with Depthwise Separable Convolutions [[arXiv](https://arxiv.org/abs/1610.02357)]
+    - SGDR: Stochastic Gradient Descent with Warm Restarts [[arXiv](https://arxiv.org/abs/1608.03983v5)]
+    - MobileNetV2: Inverted Residuals and Linear Bottlenecks [[arXiv](https://arxiv.org/abs/1801.04381)]
 - Few-Shot Learning
     - Optimization as a Model for Few-Shot Learning [[OpenReview](https://openreview.net/forum?id=rJY0-Kcll)]
     - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
+    - A Broader Study of Cross-Domain Few-Shot Learning [[arXiv](https://arxiv.org/abs/1912.07200)]
+- Reinforcement Learning
+    - Reinforcement Learning with Augmented Data [[arXiv](https://arxiv.org/abs/2004.14990)]
 
 #### 2021-06
 - Neural Architecture Search
