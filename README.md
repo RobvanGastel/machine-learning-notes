@@ -10,6 +10,7 @@
     - Optimization as a Model for Few-Shot Learning [[OpenReview](https://openreview.net/forum?id=rJY0-Kcll)]
     - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
     - A Broader Study of Cross-Domain Few-Shot Learning [[arXiv](https://arxiv.org/abs/1912.07200)]
+    - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation [[arXiv](https://arxiv.org/abs/2001.08735)]
 - Reinforcement Learning
     - Reinforcement Learning with Augmented Data [[arXiv](https://arxiv.org/abs/2004.14990)]
 
