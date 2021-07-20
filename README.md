@@ -11,6 +11,10 @@
     - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
     - A Broader Study of Cross-Domain Few-Shot Learning [[arXiv](https://arxiv.org/abs/1912.07200)]
     - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation [[arXiv](https://arxiv.org/abs/2001.08735)]
+    - Towards Understanding Generalization in Gradient-Based Meta-Learning [[arXiv](https://arxiv.org/abs/1907.07287)]
+- Meta-Learning
+    - ProMP: Proximal Meta-Policy Search [[arXiv](https://arxiv.org/abs/1810.06784)]
+    - Some Considerations on Learning to Explore via Meta-Reinforcement Learning [[arXiv](https://arxiv.org/abs/1803.01118)]
 - Reinforcement Learning
     - Reinforcement Learning with Augmented Data [[arXiv](https://arxiv.org/abs/2004.14990)]
 
