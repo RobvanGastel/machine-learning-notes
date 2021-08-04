@@ -1,3 +1,14 @@
+#### 2021-08
+- Neural Architecture Search
+    - FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [[arXiv](https://arxiv.org/abs/1907.01845)]
+    - Gradient Descent Effects on Differential Neural Architecture Search: A Survey [[IEEE](https://ieeexplore.ieee.org/document/9461192)]
+    - NAT: Neural Architecture Transformer for Accurate and Compact Architectures [[arXiv](https://arxiv.org/abs/1910.14488)]
+    - Rethinking Architecture Selection in Differentiable NAS [[openReview](https://openreview.net/pdf?id=PKubaeJkw3)]
+- Reinforcement Learning
+    - Reinforcement learning is supervised learning on optimized data [[BAIR](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)]
+- Meta-Learning
+    - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
+
 #### 2021-07
 - Neural Architecture Search
     - sharpDARTS: Faster and More Accurate Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1903.09900)]
