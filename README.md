@@ -4,6 +4,7 @@
     - Gradient Descent Effects on Differential Neural Architecture Search: A Survey [[IEEE](https://ieeexplore.ieee.org/document/9461192)]
     - NAT: Neural Architecture Transformer for Accurate and Compact Architectures [[arXiv](https://arxiv.org/abs/1910.14488)]
     - Rethinking Architecture Selection in Differentiable NAS [[openReview](https://openreview.net/pdf?id=PKubaeJkw3)]
+    - Transfer Learning with Neural AutoML [[arXiv](https://arxiv.org/abs/1803.02780)]
 - Reinforcement Learning
     - Reinforcement learning is supervised learning on optimized data [[BAIR](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)]
 - Meta-Learning
@@ -88,7 +89,7 @@
     - On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location [[arXiv](https://arxiv.org/abs/2003.07064)]
 - Reinforcement Learning
     - Recurrent experience replay in distributed Reinforcement Learning [[paper](https://openreview.net/pdf?id=r1lyTjAqYX)]
-    - Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536) [blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
+    - Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions [[arXiv](https://arxiv.org/abs/2003.08536)] [[blog](https://eng.uber.com/poet-open-ended-deep-learning/)]
     - Memory-based control with recurrent neural networks [[arXiv](https://arxiv.org/abs/1512.04455)]
     - Soft Actor-Critic Algorithms and Applications [[arXiv](https://arxiv.org/abs/1812.05905)]
     - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)]
