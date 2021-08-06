@@ -9,6 +9,8 @@
     - Reinforcement learning is supervised learning on optimized data [[BAIR](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)]
 - Meta-Learning
     - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
+- The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables [[arXiv](https://arxiv.org/abs/1611.00712)]
+- Backpropagation through the Void: Optimizing control variates for black-box gradient estimation [[arXiv](https://arxiv.org/abs/1711.00123)]
 
 #### 2021-07
 - Neural Architecture Search
