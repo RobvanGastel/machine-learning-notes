@@ -7,6 +7,7 @@
     - Transfer Learning with Neural AutoML [[arXiv](https://arxiv.org/abs/1803.02780)]
 - Reinforcement Learning
     - Reinforcement learning is supervised learning on optimized data [[BAIR](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)]
+    - Graph Convolutional Reinforcement Learning [[arXiv](https://arxiv.org/abs/1810.09202)]
 - Meta-Learning
     - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)]
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables [[arXiv](https://arxiv.org/abs/1611.00712)]
