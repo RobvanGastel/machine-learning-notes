@@ -1,3 +1,7 @@
+#### 2021-09
+- Reinforcement Learning
+    - Deep Recurrent Q-Learning for Partially Observable MDPs [[arXiv](https://arxiv.org/abs/1507.06527)]
+
 #### 2021-08
 - Neural Architecture Search
     - FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [[arXiv](https://arxiv.org/abs/1907.01845)]
