@@ -1,13 +1,19 @@
 #### 2021-09
+- Neural Architecture Search
+    - NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search [[arXiv](https://arxiv.org/abs/2001.10422v2)]
+    - Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets [[ICLR](https://openreview.net/forum?id=rkQuFUmUOg3)]
+    - NAS-Bench-201: Extending the Score of Reproducible Neural Architecture Search [[arXiv](https://arxiv.org/abs/2001.00326)]
+    - NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search [[arXiv](https://arxiv.org/abs/2007.10396)]
 - Reinforcement Learning
     - Deep Recurrent Q-Learning for Partially Observable MDPs [[arXiv](https://arxiv.org/abs/1507.06527)]
+    - What is Going on Inside Recurrent Meta Reinforcement Learning Agents? [[arXiv](https://arxiv.org/abs/2104.14644)]
 
 #### 2021-08
 - Neural Architecture Search
     - FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [[arXiv](https://arxiv.org/abs/1907.01845)]
     - Gradient Descent Effects on Differential Neural Architecture Search: A Survey [[IEEE](https://ieeexplore.ieee.org/document/9461192)]
     - NAT: Neural Architecture Transformer for Accurate and Compact Architectures [[arXiv](https://arxiv.org/abs/1910.14488)]
-    - Rethinking Architecture Selection in Differentiable NAS [[openReview](https://openreview.net/pdf?id=PKubaeJkw3)]
+    - Rethinking Architecture Selection in Differentiable NAS [[ICLR](https://openreview.net/pdf?id=PKubaeJkw3)]
     - Transfer Learning with Neural AutoML [[arXiv](https://arxiv.org/abs/1803.02780)]
 - Reinforcement Learning
     - Reinforcement learning is supervised learning on optimized data [[BAIR](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)]
