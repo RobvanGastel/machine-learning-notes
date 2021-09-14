@@ -8,6 +8,8 @@
     - Deep Recurrent Q-Learning for Partially Observable MDPs [[arXiv](https://arxiv.org/abs/1507.06527)]
     - What is Going on Inside Recurrent Meta Reinforcement Learning Agents? [[arXiv](https://arxiv.org/abs/2104.14644)]
     - Learning to Locomote: Understanding How Environment Design Matters for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/2010.04304)]
+- Generative Models
+    - D-VAE: A Variational Autoencoder for Directed Acyclic Graphs [[arXiv](https://arxiv.org/abs/1904.11088)]
 
 #### 2021-08
 - Neural Architecture Search
