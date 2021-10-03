@@ -1,3 +1,10 @@
+#### 2021-10
+- Reinforcement Learning
+    - Mastering Atari with Discrete World Models [[arXiv](https://arxiv.org/abs/2010.02193)]
+    - Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver? [[arXiv](https://arxiv.org/abs/1909.11830)]
+- Computer Vision
+    - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[arXiv](https://arxiv.org/abs/2010.11929v2)]
+
 #### 2021-09
 - Neural Architecture Search
     - NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search [[arXiv](https://arxiv.org/abs/2001.10422v2)]
