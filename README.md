@@ -1,4 +1,6 @@
 #### 2021-10
+- Generalization
+    - Just Ask for Generalization by Eric Jang [[Blog](https://evjang.com/2021/10/23/generalization.html)]
 - Reinforcement Learning
     - Mastering Atari with Discrete World Models [[arXiv](https://arxiv.org/abs/2010.02193)]
     - Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver? [[arXiv](https://arxiv.org/abs/1909.11830)]
