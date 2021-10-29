@@ -4,6 +4,7 @@
 - Reinforcement Learning
     - Mastering Atari with Discrete World Models [[arXiv](https://arxiv.org/abs/2010.02193)]
     - Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver? [[arXiv](https://arxiv.org/abs/1909.11830)]
+    - Online Meta-Critic Learning for Off-Policy Actor-Critic Methods [[arXiv](https://arxiv.org/abs/2003.05334)]
 - Computer Vision
     - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[arXiv](https://arxiv.org/abs/2010.11929v2)]
 
