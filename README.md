@@ -1,7 +1,8 @@
 #### 2021-11
 - Meta-Learning
     - Prefrontal Cortex as a Meta-Reinforcement Learning System [[biorxiv](https://www.biorxiv.org/content/10.1101/295964v1)]
-
+- Reinforcement Learning
+    - Gradients are Not All You Need [[arXiv](https://arxiv.org/abs/2111.05803)]
 
 #### 2021-10
 - Generalization
