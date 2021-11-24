@@ -1,9 +1,12 @@
 #### 2021-11
-- Meta-Learning
-    - Prefrontal Cortex as a Meta-Reinforcement Learning System [[biorxiv](https://www.biorxiv.org/content/10.1101/295964v1)]
+- Neural Architecture Search
+    - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
+    - Stabilizing DARTS with Amended Gradient Estimation on Architectural Parameters [[arXiv](https://arxiv.org/abs/1910.11831)]
 - Reinforcement Learning
     - Gradients are Not All You Need [[arXiv](https://arxiv.org/abs/2111.05803)]
     - Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO [[arXiv](https://arxiv.org/abs/2005.12729)]
+- Meta-Learning
+    - Prefrontal Cortex as a Meta-Reinforcement Learning System [[biorxiv](https://www.biorxiv.org/content/10.1101/295964v1)]
 
 #### 2021-10
 - Generalization
