@@ -1,5 +1,11 @@
+#### 2021-12
+- Neural Architecture Search
+    - Bag of Tricks for Neural Architecture Search [[arXiv](Bag of Tricks for Neural Architecture Search)]
+
 #### 2021-11
 - Neural Architecture Search
+    - DARTS-: Robustly Stepping out of Performance Collapse Without Indicators [[arXiv](https://arxiv.org/abs/2009.01027)]
+    - Partial Channel Connections for Memory-Efficient Differentiable Architecture Search [[OpenReview](https://openreview.net/pdf?id=BJlS634tPr)]
     - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
     - Stabilizing DARTS with Amended Gradient Estimation on Architectural Parameters [[arXiv](https://arxiv.org/abs/1910.11831)]
 - Reinforcement Learning
