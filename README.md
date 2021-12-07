@@ -1,6 +1,6 @@
 #### 2021-12
 - Neural Architecture Search
-    - Bag of Tricks for Neural Architecture Search [[arXiv](Bag of Tricks for Neural Architecture Search)]
+    - Bag of Tricks for Neural Architecture Search [[arXiv](https://arxiv.org/abs/2107.03719)]
 - Meta-Learning
     - OmniPrint: A Configurable Printed Character Synthesizer [[OpenReview](https://openreview.net/pdf?id=R07XwJPmgpl)]
     - Efficient Continual Learning with Modular Networks and Task-Driven Priors [[arXiv](https://arxiv.org/abs/2012.12631)]
