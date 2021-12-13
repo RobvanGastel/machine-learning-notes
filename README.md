@@ -4,7 +4,8 @@
 - Meta-Learning
     - OmniPrint: A Configurable Printed Character Synthesizer [[OpenReview](https://openreview.net/pdf?id=R07XwJPmgpl)]
     - Efficient Continual Learning with Modular Networks and Task-Driven Priors [[arXiv](https://arxiv.org/abs/2012.12631)]
-
+- Reinforcement Learning
+    - Time Limits in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1712.00378)] 
 
 #### 2021-11
 - Neural Architecture Search
