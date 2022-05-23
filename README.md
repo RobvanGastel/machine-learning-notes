@@ -3,9 +3,9 @@
     - Random Search and Reproducibility for Neural Architecture Search [[arXiv](https://arxiv.org/abs/1902.07638)]
     - DARTS without a Validation Set: Optimizing the Marginal Likelihood [[arXiv](https://arxiv.org/abs/2112.13023)]
     - Visualizing the Loss Landscape of Neural Nets [[arXiv](https://arxiv.org/abs/1712.09913)]
-    - A Bayesian Perspective on Training Speed and Model Selection[[arXiv]](https://arxiv.org/abs/2010.14499)
-    - Speedy Performance Estimation for Neural Architecture Search[[arXiv]](https://arxiv.org/abs/2006.04492)
-    - DARTS without a Validation Set: Optimizing the Marginal Likelihood[[NeurIPS]](https://openreview.net/pdf?id=661Wz3zOzlt)
+    - A Bayesian Perspective on Training Speed and Model Selection [[arXiv](https://arxiv.org/abs/2010.14499)]
+    - Speedy Performance Estimation for Neural Architecture Search [[arXiv](https://arxiv.org/abs/2006.04492)]
+    - DARTS without a Validation Set: Optimizing the Marginal Likelihood [[NeurIPS](https://openreview.net/pdf?id=661Wz3zOzlt)]
 
 - Reinforcement Learning
     - A Closer Look at Invalid Action Masking in Policy Gradient Algorithms [[arXiv](https://arxiv.org/abs/2006.14171)]
