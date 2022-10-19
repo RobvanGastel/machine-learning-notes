@@ -6,7 +6,6 @@
     - A Bayesian Perspective on Training Speed and Model Selection [[arXiv](https://arxiv.org/abs/2010.14499)]
     - Speedy Performance Estimation for Neural Architecture Search [[arXiv](https://arxiv.org/abs/2006.04492)]
     - DARTS without a Validation Set: Optimizing the Marginal Likelihood [[NeurIPS](https://openreview.net/pdf?id=661Wz3zOzlt)]
-
 - Reinforcement Learning
     - A Closer Look at Invalid Action Masking in Policy Gradient Algorithms [[arXiv](https://arxiv.org/abs/2006.14171)]
 - Generalization
